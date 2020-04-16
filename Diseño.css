@@ -1,0 +1,45 @@
+*
+{
+    margin:4px;
+    padding:6px;
+
+}
+body
+{
+    background:blue;
+    font-family:'Century Gothic',  Algerian,  Arial;
+}
+#titulo
+{
+    background:red;
+    width:7px;
+    margin:7px;
+    border:9px;
+
+}
+#encabezado
+{
+    color:mediumpurple;
+    background:orange;
+    margin:4px;
+    border:2px;
+}
+#foot
+{
+   color: orangered;
+   background:yellow;
+   border:5px;
+   margin:7px;
+}
+#mac
+{
+    color:greenyellow ;
+    background: skyblue;
+    border: 4px;
+    margin: 3px;
+}
+
+
+
+
+    

@@ -20,3 +20,16 @@
 		echo "la division es: ".($valor1/$valor2);
 	}	
 ?>
+    <html>
+	  <head>
+	  <link rel=" stylesheet"type="text/css"href="Diseño.css"/>
+	  
+	  </head>
+	  <body>
+	   <div align="center" id="mac">
+	   <h1>
+	   Resultado
+	   </h1>
+	   </div>
+	  </body>
+	  </html>
