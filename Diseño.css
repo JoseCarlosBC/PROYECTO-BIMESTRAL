@@ -31,13 +31,23 @@ body
    border:5px;
    margin:7px;
 }
-#mac
+ #TOTAL
 {
-    color:greenyellow ;
-    background: skyblue;
-    border: 4px;
-    margin: 3px;
+    color:orange;
+    background:black;
+    width:400px;
+    margin:6px auto;
+    border:2px solid black;
 }
+#MOSTRAR
+{
+    background:#15aabf;
+    width:400px;
+    margin:6px auto;
+    border:2px solid black;
+    font-size:60px;
+}
+
 
 
 
