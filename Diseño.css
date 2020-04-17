@@ -2,20 +2,18 @@
 {
     margin:4px;
     padding:6px;
-
 }
-body
-{
-    background:blue;
-    font-family:'Century Gothic',  Algerian,  Arial;
-}
+    body
+    {
+        background:blue;
+        font-family:'Century Gothic',  Algerian,  Arial;
+    }
 #titulo
 {
     background:red;
     width:7px;
     margin:7px;
     border:9px;
-
 }
 #encabezado
 {
@@ -34,14 +32,15 @@ body
  #TOTAL
 {
     color:orange;
-    background:black;
+    background:yellow;
     width:400px;
     margin:6px auto;
     border:2px solid black;
 }
 #MOSTRAR
 {
-    background:#15aabf;
+    
+    background:yellow;
     width:400px;
     margin:6px auto;
     border:2px solid black;

@@ -3,28 +3,28 @@
 	$valor1=$_POST['n1'];
 	$valor2=$_POST['n2'];
 	$opcion=$_POST['opciones'];
-$ total;
+    $total=0;
 
 	if ($opcion==1) {
-$ total=($valor1+$valor2);
+        $total=($valor1+$valor2);
 	}
 
 	if ($opcion==2) {
-$ total= ($valor1-$valor2);
+        $total=($valor1-$valor2);
 	}
 
 	if ($opcion==3) {
-		$ total=  ($valor1*$valor2);
+		$total=($valor1*$valor2);
 	}
 
 	if ($opcion==4) {
-$ total=  ($valor1*$valor2);
+        $total=($valor1*$valor2);
 	}	
 ?>
        <html>
 
   <head>
-   <link rel="stylesheet" type="text/css" href="Estilos.css" />
+   <link rel="stylesheet" type="text/css" href="Diseño.css" />
   </head>
 
   <body>
@@ -38,6 +38,6 @@ $ total=  ($valor1*$valor2);
           <div align="center" id="MOSTRAR">
               <p><?php echo $total; ?> </p>
           </div>
-   </section> 
+   </section>  
   </body>
 </html>
